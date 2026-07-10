@@ -53,15 +53,27 @@ The program prints:
 
 1. Install the required libraries:
 
-pip install numpy scipy matplotlib
-2. Place a WAV file named audio.wav in the same folder as the Python file.
-3. Run: python audio_matching_fft.py
+```bash
 
-Course
+pip install numpy scipy matplotlib
+
+```
+
+2. Place a WAV file named `audio.wav` in the same folder as the Python file.
+
+3. Run:
+
+```bash
+
+python audio_matching_fft.py
+
+```
+
+## Course
 
 Signals and Systems Theory — COMM 401
 
-Authors
+## Authors
 
 * Hamza Wael Sallam
 * Omar Moataz El Sobky
